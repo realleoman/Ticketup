@@ -1,3 +1,3 @@
-And now, here it goes again!!!!!!!
+Public Version of my TicketUp! Call Center Ticketing System.
 
-Lets break it!!!
+Interested? Go to http://ticketup.dalaius.net and request access to it..
